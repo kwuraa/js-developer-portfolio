@@ -1,0 +1,69 @@
+{
+  "name": "Matheus Kawamura",
+  "photo": "https://avatars.githubusercontent.com/u/90683380?s=400&u=abe30f1323efc5dae43af03cd72633f809fa32f5&v=4",
+  "job": "Full Stack developer student",
+  "location": "São Paulo - SP",
+  "phone": "(12) 99187-9274",
+  "email": "kwuraa@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/html.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/javascript.svg"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/react.svg"
+      },
+      {
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/csharp.svg"
+      },
+      {
+        "name": "Net",
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/net.svg"
+      }
+    ],
+    "softSkills": [
+      "Facilidade com tarefas práticas",
+      "Organização",
+      "Trabalho em equipe",
+      "Responsabilidade",
+      "Comunicação"
+    ]
+  },
+  "languages": ["Português BR", "Inglês (basíco)", "Japônes (iniciante)"],
+  "portfolio": [
+    {
+      "name": "Task List - projeto de estudo do curso de front-end Ada-Tech",
+      "url": "https://github.com/kwuraa/Task-List---project",
+      "github": true
+    },
+    {
+      "name": "Tamagoshi Virtual - Projeto pessoal de estudo | Ainda Não finalizado",
+      "url": "https://github.com/kwuraa/Projeto-Tamagotchi",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Arquiteto de software / S3 BANK",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    },
+    {
+      "name": "Software Engineering Lead / DIO",
+      "period": "2021 - 2022",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+    },
+    {
+      "name": "CEO / Brain Machine",
+      "period": "2016 - 2021",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+    }
+  ]
+}
