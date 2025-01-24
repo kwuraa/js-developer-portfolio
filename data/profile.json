@@ -1,7 +1,7 @@
 {
   "name": "Matheus Kawamura",
   "photo": "https://avatars.githubusercontent.com/u/90683380?s=400&u=abe30f1323efc5dae43af03cd72633f809fa32f5&v=4",
-  "job": "Full Stack developer student",
+  "job": "Studying Full Stack Development",
   "location": "São Paulo - SP",
   "phone": "(12) 99187-9274",
   "email": "kwuraa@gmail.com",
@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/html.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/html.svg"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/javascript.svg"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/react.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/react.svg"
       },
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/csharp.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/csharp.svg"
       },
       {
         "name": "Net",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/net.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/net.svg"
       }
     ],
     "softSkills": [
@@ -51,7 +51,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Estagiario de TI / Prefeitura de Caraguatatuba/SP",
+      "name": "Estagiário de TI / Prefeitura de Caraguatatuba/SP",
       "period": "2023 - 2025",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais."
     }
