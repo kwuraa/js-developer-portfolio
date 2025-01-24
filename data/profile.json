@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/html.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/html.svg"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/javascript.svg"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/react.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/react.svg"
       },
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/csharp.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/csharp.svg"
       },
       {
         "name": "Net",
-        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/mainassets/img/icons/languages/net.svg"
+        "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/net.svg"
       }
     ],
     "softSkills": [
