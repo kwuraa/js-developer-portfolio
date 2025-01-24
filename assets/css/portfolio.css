@@ -39,3 +39,7 @@
   color: #bebbbb;
   text-decoration: none;
 }
+
+.portfolio li a:hover {
+  text-decoration: underline;
+}
