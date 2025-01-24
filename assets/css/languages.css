@@ -23,7 +23,7 @@
   display: inline-block;
   width: 0.6rem;
   height: 0.6rem;
-  background-image: url("/assets/img/icons/check.svg");
+  background-image: url("../img/icons/check.svg");
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 0.5rem;
