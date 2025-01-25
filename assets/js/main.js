@@ -79,6 +79,14 @@ function updateExperience(profileData) {
     .join("");
 }
 
+function updateFooterLinks(profileData) {
+  const github = document.getElementById("link.github");
+  github.href = `${profileData.links.github}`;
+
+  const linkedin = document.getElementById("link.linkedin");
+  linkedin.href = `${profileData.links.linkedin}`;
+}
+
 (async () => {
   const profileData = await fetchProfileData();
   updateProfileInfo(profileData);
@@ -87,4 +95,5 @@ function updateExperience(profileData) {
   updateLang(profileData);
   updatePortfolio(profileData);
   updateExperience(profileData);
+  updateFooterLinks(profileData);
 })();
