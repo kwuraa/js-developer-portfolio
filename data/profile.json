@@ -20,7 +20,7 @@
         "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/javascript.svg"
       },
       {
-        "name": "React",
+        "name": "Electron",
         "logo": "https://raw.githubusercontent.com/kwuraa/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/react.svg"
       },
       {
@@ -33,6 +33,7 @@
       }
     ],
     "softSkills": [
+      "Autodidatismo",
       "Facilidade com tarefas práticas",
       "Organização",
       "Trabalho em equipe",
@@ -40,8 +41,14 @@
       "Comunicação"
     ]
   },
-  "languages": ["Português BR", "Inglês (basíco)", "Japônes (iniciante)"],
+  "languages": ["Português BR", "Inglês (basíco)"],
   "portfolio": [
+    {
+       "name": "WorkStage - Projeto pessoal | Desenvolvimento de uma aplicação para gerenciar o progresso de produção de itens de uma empresa",
+      "url": "https://github.com/kwuraa/WorkStage",
+      "github": true
+      
+    },
     {
       "name": "Task List - projeto de estudo do curso de front-end Ada-Tech",
       "url": "https://github.com/kwuraa/Task-List---project",
