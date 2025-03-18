@@ -2,7 +2,7 @@
   "name": "Matheus Kawamura",
   "photo": "https://avatars.githubusercontent.com/u/90683380?s=400&u=abe30f1323efc5dae43af03cd72633f809fa32f5&v=4",
   "job": "Studying Full Stack Development",
-  "location": "São Sebastião - SP",
+  "location": "Sorocaba - SP",
   "phone": "(12) 99187-9274",
   "email": "kwuraa@gmail.com",
   "links": {
@@ -44,8 +44,8 @@
   "languages": ["Português BR", "Inglês (basíco)"],
   "portfolio": [
     {
-       "name": "WorkStage - Projeto pessoal | ultilizando Electron",
-      "url": "https://github.com/kwuraa/WorkStage",
+       "name": "WorkStage - Projeto pessoal | ultilizando React e Electron",
+      "url": "https://github.com/kwuraa/WorkStage-New",
       "github": true
       
     },
